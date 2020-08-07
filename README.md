@@ -9,7 +9,7 @@ moduleEx --> simple program to create modules and use those modules. Modules cre
 
 ExpressEx--> Simple program using ExpressJs a javascript framework.
 
-ArticleCreation --> A Blog webpage application which allows user to sign up, login and create blogs. Uses nodejs, expreesjs and mysql. 
+ArticleCreation --> A Blog webpage application which allows user to sign up, login and create blogs. Uses nodejs, expressjs and mysql. 
                      
                     Allows user to create blog and save it,
 				    Allows user to view his profile,
